@@ -40,4 +40,9 @@
 <!--     <! -->
     <!-- <style name="Theme.MeetingRecorder" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         -->
-    </resources>
+    
+
+    <!-- Thème de base de l'application (utilisant Material Components 2) -->
+    <!-- <style name="Theme.MeetingRecorder" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Couleurs primaires de la marque -->
+        </resources>
