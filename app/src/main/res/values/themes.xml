@@ -13,4 +13,26 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
-</resources>
+
+    <!-- <style name="Theme.MeetingRecorder" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Material 2 color attributes -->
+        
+    <!-- <style name="Theme.MeetingRecorder" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Material 3 color attributes. Note that colorPrimaryVariant is gone. -->
+        
+
+    <!-- Base application theme. -->
+    <!-- <style name="Theme.MeetingRecorder" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+        <!-- Primary brand color. -->
+        
+        <!-- Base application theme. -->
+        <!-- <style name="Theme.MeetingRecorder"
+            parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+            <!-- Primary brand color. -->
+            
+        <!-- Base application theme. -->
+        <!-- <style name="Theme.MeetingRecorder"
+            parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+            <!-- ... (items de votre thème) ... -->
+        </resources>
